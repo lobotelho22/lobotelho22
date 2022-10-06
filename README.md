@@ -1,7 +1,7 @@
 ## Olá, me chamo Eduardo!
 #### Seja bem-vindo a meu perfil
 <br>
-Sou estudante de desenvolvimento web full-stack na [Trybe](https://www.betrybe.com/). Atualmente estou aprendendo muito sobre ferramentas de back-end.
+Sou estudante de desenvolvimento web full-stack na <a href="https://www.betrybe.com/">Trybe</a>. Atualmente estou aprendendo muito sobre ferramentas de back-end.
 <br />
 <br />
 
